@@ -6,8 +6,9 @@ const prefColor = prompt ('dicci il tuo colore preferito');
 const number = 23;
 
 //2.
-const message = name  + lastname + prefColor + number;
+const message = 'ciao' + ' ' + name  + ' ' + 'usa' + ' ' + 'questa' + ' ' + 'password' + ':' + ' ' + name + lastname + prefColor + number;
 
 console.log(message);
 
 //3.
+
